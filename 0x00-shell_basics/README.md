@@ -1,0 +1,1 @@
+This directory will be used to complete the tasks for 0x00. Shell, basics!
