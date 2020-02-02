@@ -1,0 +1,1 @@
+This directory holds the scripts for all tasks completed as part of 0x02 for Holberton School.
