@@ -1,0 +1,2 @@
+#1/bin/bash
+echo {a..z}{a..n},{a..z}{p..z},{a..n}{a..z},{p..z}{a..n} | tr "" "/n"
